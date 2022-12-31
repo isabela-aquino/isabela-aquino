@@ -1,5 +1,7 @@
 ### Oie, 👋
 
+<p>Eu sou estudante de Engenharia da computação e apaixonada por tecnologia</p>
+
 <div align="center">
   <a href="https://github.com/isabela-aquino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela-aquino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,6 +28,8 @@
 ##
 
 ![Snake animation](https://github.com/isabela-aquino/isabela-aquino/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 **isabela-aquino/isabela-aquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
